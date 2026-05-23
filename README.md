@@ -17,7 +17,7 @@ $\color{#e6cc00}{\textsf{𝐔𝐡𝐡𝐡𝐡... 𝐥𝐨𝐰𝐤 𝐝𝐮𝐧�
 <img height=400 src="https://files.catbox.moe/9ay9sa.png">
 
 <p align="right">
-$\color{#e6cc00}{\textsf{⬆ 𝐘𝐮𝐩, 𝐭𝐡𝐚𝐭'𝐬 𝐦𝐞}}$	 
+$\color{#e6cc00}{\textsf{⬆ 𝐘𝐮𝐩, 𝐭𝐡𝐚𝐭'𝐬 𝐦𝐞...}}$	 
 
 <p align="center">
 <img width=1000 src="https://64.media.tumblr.com/262698e43315a9e3f344bb08a182ee5e/d290366a496c8184-f3/s540x810/860746654c80f4cb4295e22b2aca0f9da560b676.gifv">
